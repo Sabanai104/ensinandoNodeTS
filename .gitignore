@@ -1,2 +1,2 @@
-./bin/node_modules
-./txt.txt
+node_modules/
+txt.txt
